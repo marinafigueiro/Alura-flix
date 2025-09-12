@@ -1,5 +1,11 @@
 body{
     background-color: rgb(181, 225, 76);
     color:rgb(93, 93, 11);
-    font-family:'Times New Roman', Times, serif
+    font-family: 'DM Serif Display', serif;
+}
+header{
+    font-size: 50px;
+}
+h1{
+    font-size: 40px;
 }
