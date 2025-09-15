@@ -1,11 +1,15 @@
 body{
-    background-color: rgb(181, 225, 76);
-    color:rgb(93, 93, 11);
-    font-family: 'DM Serif Display', serif;
+    background-color: rgb(93, 93, 11);
+    color:rgb(182, 234, 60);
+    font-family: "Press Start 2P", system-ui;
 }
 header{
     font-size: 50px;
+    border: outset 5px rgb(131, 148, 22);
 }
 h1{
-    font-size: 40px;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
 }
