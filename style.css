@@ -2,14 +2,18 @@ body{
     background-color: rgb(93, 93, 11);
     color:rgb(182, 234, 60);
     font-family: "Press Start 2P", system-ui;
+    margin: 0px;
 }
 header{
-    font-size: 50px;
-    border: outset 5px rgb(131, 148, 22);
+    font-size: 35px;
+    border:  outset 5px rgb(131, 148, 22);
+    text-align: center;
+    /*margin: 30px;*/
+    padding: 10px;
 }
 h1{
-    font-size: 30px;
+    font-size: 25px;
 }
 p{
-    font-size: 20px;
+    font-size: 15px;
 }
