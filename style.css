@@ -1,16 +1,16 @@
 body{
-    background-color: rgb(93, 93, 11);
-    color:rgb(148, 133, 22);
+    background-color: rgb(144, 129, 16);
+    color:rgb(160, 143, 20);
     font-family: "Press Start 2P", system-ui;
     margin: 0px;
 }
 header{
     font-size: 35px;
-    border:  outset 5px rgb(211, 234, 60);
+    border:  outset 5px rgb(203, 172, 30);
     text-align: center;
     /*margin: 30px;*/
     padding: 10px;
-    color:rgb(148, 133, 22);
+    color:rgb(203, 172, 30);
 }
 h1{
     font-size: 25px;
@@ -20,8 +20,13 @@ p{
 }
 
 section{
-background-color: rgb(211, 234, 60);
+background-color: rgb(93, 93, 11);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
 }
